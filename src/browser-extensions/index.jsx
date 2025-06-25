@@ -123,7 +123,7 @@ export default function BrowserExtension() {
 				<a href="https://www.frontendmentor.io?ref=challenge">
 					Frontend Mentor
 				</a>
-				. Coded by <a href="#">Ozil</a>.
+				. Coded by <a href="https://github.com/OZ-astra/browser-extensions">Ozil</a>.
 			</div>
 		</div>
 	);
